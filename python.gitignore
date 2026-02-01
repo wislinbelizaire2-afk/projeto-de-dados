@@ -1,0 +1,14 @@
+# Pasta do ambiente virtual (não queremos isso no GitHub)
+venv/
+.venv/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Pasta de configurações do VS Code
+.vscode/
+
+# Arquivos de dados pesados (opcional, se você tiver arquivos .csv grandes)
+# *.csv
