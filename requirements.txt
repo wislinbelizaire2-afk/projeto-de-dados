@@ -1,7 +1,7 @@
-   pandas
-   streamlit 
-   plotly 
-   altair
+   pandas>=1.5
+   streamlit>=1.30 
+   plotly>=5
+   altair>=5.0
  
    
 
